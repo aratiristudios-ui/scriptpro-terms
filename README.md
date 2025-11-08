@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Publicar los Términos y Condiciones (página estática)
 
 Archivos incluidos:
@@ -54,3 +55,7 @@ Si quieres, puedo:
 - Preparar un sitemap o meta tags para SEO.
 
 Dime qué opción prefieres y te doy los siguientes pasos concretos o ejecuto la automatización local (script) para ti.
+=======
+# scriptpro-terms
+Página estática con los Términos y Condiciones (versión en Español) de la aplicación móvil Script Pro, preparada para desplegar en GitHub Pages, Netlify o Vercel.
+>>>>>>> bd40eb9fca0f4cf8617a50827450a820bb2942e4
